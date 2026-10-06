@@ -1,0 +1,722 @@
+{
+    "/assets/icons/08_system_utilities/72_system_status_ring.png":  {
+                                                                        "viewBox":  [
+                                                                                        48.94,
+                                                                                        38.44,
+                                                                                        123.12,
+                                                                                        123.12
+                                                                                    ],
+                                                                        "width":  256,
+                                                                        "height":  256
+                                                                    },
+    "/assets/icons/08_system_utilities/71_connection_online.png":  {
+                                                                       "viewBox":  [
+                                                                                       69.44,
+                                                                                       38.94,
+                                                                                       123.12,
+                                                                                       123.12
+                                                                                   ],
+                                                                       "width":  256,
+                                                                       "height":  256
+                                                                   },
+    "/assets/icons/08_system_utilities/70_cpu_temperature.png":  {
+                                                                     "viewBox":  [
+                                                                                     61.62,
+                                                                                     20.62,
+                                                                                     152.76,
+                                                                                     152.76
+                                                                                 ],
+                                                                     "width":  256,
+                                                                     "height":  256
+                                                                 },
+    "/assets/icons/08_system_utilities/69_jetson_microchip.png":  {
+                                                                      "viewBox":  [
+                                                                                      61.3,
+                                                                                      101.3,
+                                                                                      125.4,
+                                                                                      125.4
+                                                                                  ],
+                                                                      "width":  256,
+                                                                      "height":  256
+                                                                  },
+    "/assets/icons/08_system_utilities/68_edge_ai_brain.png":  {
+                                                                   "viewBox":  [
+                                                                                   67.16,
+                                                                                   97.66,
+                                                                                   127.68,
+                                                                                   127.68
+                                                                               ],
+                                                                   "width":  256,
+                                                                   "height":  256
+                                                               },
+    "/assets/icons/08_system_utilities/67_sync_refresh.png":  {
+                                                                  "viewBox":  [
+                                                                                  70.37,
+                                                                                  90.37,
+                                                                                  124.26,
+                                                                                  124.26
+                                                                              ],
+                                                                  "width":  256,
+                                                                  "height":  256
+                                                              },
+    "/assets/icons/08_system_utilities/66_database_system.png":  {
+                                                                     "viewBox":  [
+                                                                                     75.01,
+                                                                                     106.51,
+                                                                                     121.98,
+                                                                                     121.98
+                                                                                 ],
+                                                                     "width":  256,
+                                                                     "height":  256
+                                                                 },
+    "/assets/icons/07_alerts_logs_navigation/65_more_options_ellipsis.png":  {
+                                                                                 "viewBox":  [
+                                                                                                 52.53,
+                                                                                                 39.03,
+                                                                                                 137.94,
+                                                                                                 137.94
+                                                                                             ],
+                                                                                 "width":  256,
+                                                                                 "height":  256
+                                                                             },
+    "/assets/icons/07_alerts_logs_navigation/64_pagination_double_right.png":  {
+                                                                                   "viewBox":  [
+                                                                                                   72.47,
+                                                                                                   61.97,
+                                                                                                   90.06,
+                                                                                                   90.06
+                                                                                               ],
+                                                                                   "width":  256,
+                                                                                   "height":  256
+                                                                               },
+    "/assets/icons/07_alerts_logs_navigation/63_pagination_right.png":  {
+                                                                            "viewBox":  [
+                                                                                            84.61,
+                                                                                            61.61,
+                                                                                            87.78,
+                                                                                            87.78
+                                                                                        ],
+                                                                            "width":  256,
+                                                                            "height":  256
+                                                                        },
+    "/assets/icons/07_alerts_logs_navigation/62_pagination_left.png":  {
+                                                                           "viewBox":  [
+                                                                                           80.04,
+                                                                                           62.54,
+                                                                                           88.92,
+                                                                                           88.92
+                                                                                       ],
+                                                                           "width":  256,
+                                                                           "height":  256
+                                                                       },
+    "/assets/icons/07_alerts_logs_navigation/61_pagination_double_left.png":  {
+                                                                                  "viewBox":  [
+                                                                                                  92.97,
+                                                                                                  61.47,
+                                                                                                  90.06,
+                                                                                                  90.06
+                                                                                              ],
+                                                                                  "width":  256,
+                                                                                  "height":  256
+                                                                              },
+    "/assets/icons/07_alerts_logs_navigation/60_view_details_chevron.png":  {
+                                                                                "viewBox":  [
+                                                                                                79.88,
+                                                                                                36.88,
+                                                                                                132.24,
+                                                                                                132.24
+                                                                                            ],
+                                                                                "width":  256,
+                                                                                "height":  256
+                                                                            },
+    "/assets/icons/07_alerts_logs_navigation/59_history_log.png":  {
+                                                                       "viewBox":  [
+                                                                                       44.15,
+                                                                                       33.15,
+                                                                                       176.7,
+                                                                                       176.7
+                                                                                   ],
+                                                                       "width":  256,
+                                                                       "height":  256
+                                                                   },
+    "/assets/icons/07_alerts_logs_navigation/58_export_csv.png":  {
+                                                                      "viewBox":  [
+                                                                                      49.01,
+                                                                                      29.01,
+                                                                                      178.98,
+                                                                                      178.98
+                                                                                  ],
+                                                                      "width":  256,
+                                                                      "height":  256
+                                                                  },
+    "/assets/icons/07_alerts_logs_navigation/57_communication_warning.png":  {
+                                                                                 "viewBox":  [
+                                                                                                 36.26,
+                                                                                                 15.76,
+                                                                                                 207.48,
+                                                                                                 207.48
+                                                                                             ],
+                                                                                 "width":  256,
+                                                                                 "height":  256
+                                                                             },
+    "/assets/icons/07_alerts_logs_navigation/56_low_water_tank_alert.png":  {
+                                                                                "viewBox":  [
+                                                                                                40.01,
+                                                                                                45.01,
+                                                                                                178.98,
+                                                                                                178.98
+                                                                                            ],
+                                                                                "width":  256,
+                                                                                "height":  256
+                                                                            },
+    "/assets/icons/07_alerts_logs_navigation/55_high_temperature_alert.png":  {
+                                                                                  "viewBox":  [
+                                                                                                  27.89,
+                                                                                                  33.89,
+                                                                                                  197.22,
+                                                                                                  197.22
+                                                                                              ],
+                                                                                  "width":  256,
+                                                                                  "height":  256
+                                                                              },
+    "/assets/icons/07_alerts_logs_navigation/54_low_soil_moisture_alert.png":  {
+                                                                                   "viewBox":  [
+                                                                                                   44.31,
+                                                                                                   41.31,
+                                                                                                   190.38,
+                                                                                                   190.38
+                                                                                               ],
+                                                                                   "width":  256,
+                                                                                   "height":  256
+                                                                               },
+    "/assets/icons/03_sensors_analytics/27_realtime_trends.png":  {
+                                                                      "viewBox":  [
+                                                                                      37.13,
+                                                                                      23.63,
+                                                                                      160.74,
+                                                                                      160.74
+                                                                                  ],
+                                                                      "width":  256,
+                                                                      "height":  256
+                                                                  },
+    "/assets/icons/03_sensors_analytics/26_camera_live_feed.png":  {
+                                                                       "viewBox":  [
+                                                                                       55.18,
+                                                                                       24.68,
+                                                                                       143.64,
+                                                                                       143.64
+                                                                                   ],
+                                                                       "width":  256,
+                                                                       "height":  256
+                                                                   },
+    "/assets/icons/03_sensors_analytics/25_water_tank_level.png":  {
+                                                                       "viewBox":  [
+                                                                                       68.61,
+                                                                                       22.11,
+                                                                                       144.78,
+                                                                                       144.78
+                                                                                   ],
+                                                                       "width":  256,
+                                                                       "height":  256
+                                                                   },
+    "/assets/icons/03_sensors_analytics/24_light_level.png":  {
+                                                                  "viewBox":  [
+                                                                                  67.72,
+                                                                                  108.72,
+                                                                                  118.56,
+                                                                                  118.56
+                                                                              ],
+                                                                  "width":  256,
+                                                                  "height":  256
+                                                              },
+    "/assets/icons/03_sensors_analytics/23_soil_moisture.png":  {
+                                                                    "viewBox":  [
+                                                                                    63.51,
+                                                                                    111.51,
+                                                                                    121.98,
+                                                                                    121.98
+                                                                                ],
+                                                                    "width":  256,
+                                                                    "height":  256
+                                                                },
+    "/assets/icons/03_sensors_analytics/22_air_humidity.png":  {
+                                                                   "viewBox":  [
+                                                                                   55.27,
+                                                                                   58.27,
+                                                                                   158.46,
+                                                                                   158.46
+                                                                               ],
+                                                                   "width":  256,
+                                                                   "height":  256
+                                                               },
+    "/assets/icons/03_sensors_analytics/21_temperature.png":  {
+                                                                  "viewBox":  [
+                                                                                  64.45,
+                                                                                  98.95,
+                                                                                  131.1,
+                                                                                  131.1
+                                                                              ],
+                                                                  "width":  256,
+                                                                  "height":  256
+                                                              },
+    "/assets/icons/06_manual_controls/53_automatic_mode_toggle.png":  {
+                                                                          "viewBox":  [
+                                                                                          23.43,
+                                                                                          36.43,
+                                                                                          172.14,
+                                                                                          172.14
+                                                                                      ],
+                                                                          "width":  256,
+                                                                          "height":  256
+                                                                      },
+    "/assets/icons/06_manual_controls/52_manual_mode_toggle.png":  {
+                                                                       "viewBox":  [
+                                                                                       67.85,
+                                                                                       38.85,
+                                                                                       165.3,
+                                                                                       165.3
+                                                                                   ],
+                                                                       "width":  256,
+                                                                       "height":  256
+                                                                   },
+    "/assets/icons/06_manual_controls/51_light_off.png":  {
+                                                              "viewBox":  [
+                                                                              15.45,
+                                                                              59.95,
+                                                                              131.1,
+                                                                              131.1
+                                                                          ],
+                                                              "width":  256,
+                                                              "height":  256
+                                                          },
+    "/assets/icons/06_manual_controls/50_light_on.png":  {
+                                                             "viewBox":  [
+                                                                             119.01,
+                                                                             64.51,
+                                                                             121.98,
+                                                                             121.98
+                                                                         ],
+                                                             "width":  256,
+                                                             "height":  256
+                                                         },
+    "/assets/icons/06_manual_controls/49_disable_cooling.png":  {
+                                                                    "viewBox":  [
+                                                                                    -1.92,
+                                                                                    38.08,
+                                                                                    177.84,
+                                                                                    177.84
+                                                                                ],
+                                                                    "width":  256,
+                                                                    "height":  256
+                                                                },
+    "/assets/icons/06_manual_controls/48_enable_cooling.png":  {
+                                                                   "viewBox":  [
+                                                                                   0.32,
+                                                                                   -0.18,
+                                                                                   255.36,
+                                                                                   255.36
+                                                                               ],
+                                                                   "width":  256,
+                                                                   "height":  256
+                                                               },
+    "/assets/icons/06_manual_controls/47_close_valve.png":  {
+                                                                "viewBox":  [
+                                                                                79.08,
+                                                                                38.08,
+                                                                                177.84,
+                                                                                177.84
+                                                                            ],
+                                                                "width":  256,
+                                                                "height":  256
+                                                            },
+    "/assets/icons/06_manual_controls/46_open_valve.png":  {
+                                                               "viewBox":  [
+                                                                               -0.78,
+                                                                               46.22,
+                                                                               175.56,
+                                                                               175.56
+                                                                           ],
+                                                               "width":  256,
+                                                               "height":  256
+                                                           },
+    "/assets/icons/06_manual_controls/45_stop_pump.png":  {
+                                                              "viewBox":  [
+                                                                              0.32,
+                                                                              1.82,
+                                                                              255.36,
+                                                                              255.36
+                                                                          ],
+                                                              "width":  256,
+                                                              "height":  256
+                                                          },
+    "/assets/icons/06_manual_controls/44_start_pump.png":  {
+                                                               "viewBox":  [
+                                                                               81.79,
+                                                                               42.29,
+                                                                               174.42,
+                                                                               174.42
+                                                                           ],
+                                                               "width":  256,
+                                                               "height":  256
+                                                           },
+    "/assets/icons/01_navigation_brand/02_dashboard_grid.png":  {
+                                                                    "viewBox":  [
+                                                                                    68.37,
+                                                                                    108.37,
+                                                                                    124.26,
+                                                                                    124.26
+                                                                                ],
+                                                                    "width":  256,
+                                                                    "height":  256
+                                                                },
+    "/assets/icons/01_navigation_brand/01_leafnode_logo.png":  {
+                                                                   "viewBox":  [
+                                                                                   47.93,
+                                                                                   60.43,
+                                                                                   172.14,
+                                                                                   172.14
+                                                                               ],
+                                                                   "width":  256,
+                                                                   "height":  256
+                                                               },
+    "/assets/icons/01_navigation_brand/03_sensors_thermometer.png":  {
+                                                                         "viewBox":  [
+                                                                                         51.83,
+                                                                                         86.83,
+                                                                                         149.34,
+                                                                                         149.34
+                                                                                     ],
+                                                                         "width":  256,
+                                                                         "height":  256
+                                                                     },
+    "/assets/icons/02_top_status/13_system_online.png":  {
+                                                             "viewBox":  [
+                                                                             53.82,
+                                                                             68.32,
+                                                                             141.36,
+                                                                             141.36
+                                                                         ],
+                                                             "width":  256,
+                                                             "height":  256
+                                                         },
+    "/assets/icons/01_navigation_brand/04_ai_agents_brain.png":  {
+                                                                     "viewBox":  [
+                                                                                     63.67,
+                                                                                     90.67,
+                                                                                     135.66,
+                                                                                     135.66
+                                                                                 ],
+                                                                     "width":  256,
+                                                                     "height":  256
+                                                                 },
+    "/assets/icons/02_top_status/14_auto_mode.png":  {
+                                                         "viewBox":  [
+                                                                         55.39,
+                                                                         82.89,
+                                                                         140.22,
+                                                                         140.22
+                                                                     ],
+                                                         "width":  256,
+                                                         "height":  256
+                                                     },
+    "/assets/icons/02_top_status/15_edge_device_jetson.png":  {
+                                                                  "viewBox":  [
+                                                                                  72.77,
+                                                                                  118.27,
+                                                                                  101.46,
+                                                                                  101.46
+                                                                              ],
+                                                                  "width":  256,
+                                                                  "height":  256
+                                                              },
+    "/assets/icons/02_top_status/16_bluetooth_controller_1.png":  {
+                                                                      "viewBox":  [
+                                                                                      92.26,
+                                                                                      124.26,
+                                                                                      93.48,
+                                                                                      93.48
+                                                                                  ],
+                                                                      "width":  256,
+                                                                      "height":  256
+                                                                  },
+    "/assets/icons/01_navigation_brand/05_camera_analysis.png":  {
+                                                                     "viewBox":  [
+                                                                                     38.52,
+                                                                                     33.52,
+                                                                                     186.96,
+                                                                                     186.96
+                                                                                 ],
+                                                                     "width":  256,
+                                                                     "height":  256
+                                                                 },
+    "/assets/icons/02_top_status/20_active_status_pill.png":  {
+                                                                  "viewBox":  [
+                                                                                  74.51,
+                                                                                  31.01,
+                                                                                  121.98,
+                                                                                  121.98
+                                                                              ],
+                                                                  "width":  256,
+                                                                  "height":  256
+                                                              },
+    "/assets/icons/02_top_status/19_calendar_date.png":  {
+                                                             "viewBox":  [
+                                                                             62.53,
+                                                                             33.53,
+                                                                             137.94,
+                                                                             137.94
+                                                                         ],
+                                                             "width":  256,
+                                                             "height":  256
+                                                         },
+    "/assets/icons/02_top_status/18_communication_link.png":  {
+                                                                  "viewBox":  [
+                                                                                  75.98,
+                                                                                  31.48,
+                                                                                  98.04,
+                                                                                  98.04
+                                                                              ],
+                                                                  "width":  256,
+                                                                  "height":  256
+                                                              },
+    "/assets/icons/02_top_status/17_bluetooth_controller_2.png":  {
+                                                                      "viewBox":  [
+                                                                                      73.92,
+                                                                                      27.42,
+                                                                                      107.16,
+                                                                                      107.16
+                                                                                  ],
+                                                                      "width":  256,
+                                                                      "height":  256
+                                                                  },
+    "/assets/icons/01_navigation_brand/09_alerts_warning.png":  {
+                                                                    "viewBox":  [
+                                                                                    58.25,
+                                                                                    24.75,
+                                                                                    142.5,
+                                                                                    142.5
+                                                                                ],
+                                                                    "width":  256,
+                                                                    "height":  256
+                                                                },
+    "/assets/icons/01_navigation_brand/08_history_clock.png":  {
+                                                                   "viewBox":  [
+                                                                                   38.59,
+                                                                                   23.59,
+                                                                                   185.82,
+                                                                                   185.82
+                                                                               ],
+                                                                   "width":  256,
+                                                                   "height":  256
+                                                               },
+    "/assets/icons/01_navigation_brand/07_recommendations_leaf.png":  {
+                                                                          "viewBox":  [
+                                                                                          42.36,
+                                                                                          42.36,
+                                                                                          173.28,
+                                                                                          173.28
+                                                                                      ],
+                                                                          "width":  256,
+                                                                          "height":  256
+                                                                      },
+    "/assets/icons/01_navigation_brand/06_actuators_gear.png":  {
+                                                                    "viewBox":  [
+                                                                                    41.09,
+                                                                                    31.59,
+                                                                                    185.82,
+                                                                                    185.82
+                                                                                ],
+                                                                    "width":  256,
+                                                                    "height":  256
+                                                                },
+    "/assets/icons/01_navigation_brand/12_smart_plant_circuit.png":  {
+                                                                         "viewBox":  [
+                                                                                         37.79,
+                                                                                         8.29,
+                                                                                         174.42,
+                                                                                         174.42
+                                                                                     ],
+                                                                         "width":  256,
+                                                                         "height":  256
+                                                                     },
+    "/assets/icons/01_navigation_brand/10_settings_gear.png":  {
+                                                                   "viewBox":  [
+                                                                                   68.16,
+                                                                                   46.16,
+                                                                                   127.68,
+                                                                                   127.68
+                                                                               ],
+                                                                   "width":  256,
+                                                                   "height":  256
+                                                               },
+    "/assets/icons/01_navigation_brand/11_local_database.png":  {
+                                                                    "viewBox":  [
+                                                                                    67.51,
+                                                                                    50.51,
+                                                                                    121.98,
+                                                                                    121.98
+                                                                                ],
+                                                                    "width":  256,
+                                                                    "height":  256
+                                                                },
+    "/assets/icons/04_ai_agents/28_surveillance_agent_eye.png":  {
+                                                                     "viewBox":  [
+                                                                                     57.71,
+                                                                                     63.71,
+                                                                                     167.58,
+                                                                                     167.58
+                                                                                 ],
+                                                                     "width":  256,
+                                                                     "height":  256
+                                                                 },
+    "/assets/icons/04_ai_agents/29_decision_agent_scales.png":  {
+                                                                    "viewBox":  [
+                                                                                    36.94,
+                                                                                    53.44,
+                                                                                    180.12,
+                                                                                    180.12
+                                                                                ],
+                                                                    "width":  256,
+                                                                    "height":  256
+                                                                },
+    "/assets/icons/04_ai_agents/34_active_status_dot.png":  {
+                                                                "viewBox":  [
+                                                                                102.92,
+                                                                                96.92,
+                                                                                50.16,
+                                                                                50.16
+                                                                            ],
+                                                                "width":  256,
+                                                                "height":  256
+                                                            },
+    "/assets/icons/04_ai_agents/33_decision_recommendation.png":  {
+                                                                      "viewBox":  [
+                                                                                      21.59,
+                                                                                      39.09,
+                                                                                      185.82,
+                                                                                      185.82
+                                                                                  ],
+                                                                      "width":  256,
+                                                                      "height":  256
+                                                                  },
+    "/assets/icons/04_ai_agents/32_anomaly_leaf_detection.png":  {
+                                                                     "viewBox":  [
+                                                                                     24.68,
+                                                                                     25.18,
+                                                                                     200.64,
+                                                                                     200.64
+                                                                                 ],
+                                                                     "width":  256,
+                                                                     "height":  256
+                                                                 },
+    "/assets/icons/04_ai_agents/31_alert_agent_bell.png":  {
+                                                               "viewBox":  [
+                                                                               50.66,
+                                                                               39.66,
+                                                                               184.68,
+                                                                               184.68
+                                                                           ],
+                                                               "width":  256,
+                                                               "height":  256
+                                                           },
+    "/assets/icons/05_actuators/43_indicator_open.png":  {
+                                                             "viewBox":  [
+                                                                             29.27,
+                                                                             20.77,
+                                                                             158.46,
+                                                                             158.46
+                                                                         ],
+                                                             "width":  256,
+                                                             "height":  256
+                                                         },
+    "/assets/icons/04_ai_agents/30_action_agent_lightning.png":  {
+                                                                     "viewBox":  [
+                                                                                     33,
+                                                                                     67.5,
+                                                                                     171,
+                                                                                     171
+                                                                                 ],
+                                                                     "width":  256,
+                                                                     "height":  256
+                                                                 },
+    "/assets/icons/05_actuators/42_indicator_off.png":  {
+                                                            "viewBox":  [
+                                                                            50.55,
+                                                                            22.55,
+                                                                            153.9,
+                                                                            153.9
+                                                                        ],
+                                                            "width":  256,
+                                                            "height":  256
+                                                        },
+    "/assets/icons/05_actuators/41_indicator_on.png":  {
+                                                           "viewBox":  [
+                                                                           70.62,
+                                                                           22.62,
+                                                                           152.76,
+                                                                           152.76
+                                                                       ],
+                                                           "width":  256,
+                                                           "height":  256
+                                                       },
+    "/assets/icons/05_actuators/40_relays_module.png":  {
+                                                            "viewBox":  [
+                                                                            29.29,
+                                                                            42.79,
+                                                                            174.42,
+                                                                            174.42
+                                                                        ],
+                                                            "width":  256,
+                                                            "height":  256
+                                                        },
+    "/assets/icons/05_actuators/39_peltier_cooling.png":  {
+                                                              "viewBox":  [
+                                                                              26.9,
+                                                                              28.4,
+                                                                              205.2,
+                                                                              205.2
+                                                                          ],
+                                                              "width":  256,
+                                                              "height":  256
+                                                          },
+    "/assets/icons/05_actuators/38_grow_light.png":  {
+                                                         "viewBox":  [
+                                                                         55.8,
+                                                                         34.8,
+                                                                         182.4,
+                                                                         182.4
+                                                                     ],
+                                                         "width":  256,
+                                                         "height":  256
+                                                     },
+    "/assets/icons/05_actuators/37_solenoid_valve.png":  {
+                                                             "viewBox":  [
+                                                                             28.07,
+                                                                             61.57,
+                                                                             169.86,
+                                                                             169.86
+                                                                         ],
+                                                             "width":  256,
+                                                             "height":  256
+                                                         },
+    "/assets/icons/05_actuators/36_cooling_fan.png":  {
+                                                          "viewBox":  [
+                                                                          39.87,
+                                                                          57.87,
+                                                                          181.26,
+                                                                          181.26
+                                                                      ],
+                                                          "width":  256,
+                                                          "height":  256
+                                                      },
+    "/assets/icons/05_actuators/35_irrigation_pump.png":  {
+                                                              "viewBox":  [
+                                                                              56.52,
+                                                                              50.52,
+                                                                              186.96,
+                                                                              186.96
+                                                                          ],
+                                                              "width":  256,
+                                                              "height":  256
+                                                          }
+}

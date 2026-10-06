@@ -1,0 +1,29 @@
+﻿.recommendation-visual { display: flex; align-items: center; gap: 20px; padding: 20px; margin-bottom: 20px; border: 1px solid var(--border-soft); border-radius: 16px; background: radial-gradient(ellipse at left, rgba(77, 171, 113, .17), transparent 80%); animation: care-reveal .55s ease-out both; }
+.recommendation-art { flex: 0 0 130px; text-align: center; }
+.recommendation-art img { width: 130px; height: 130px; object-fit: contain; filter: drop-shadow(0 8px 14px rgba(0,0,0,.12)); animation: care-float 3s ease-in-out 1; }
+.recommendation-art > span { display: block; color: var(--text-muted); font-size: 10px; }
+.recommendation-eyebrow { color: var(--text-muted); text-transform: uppercase; font-size: 10px; letter-spacing: .08em; }
+.recommendation-visual h3 { font-size: 21px; line-height: 1.35; color: var(--text-primary); margin: 8px 0; overflow-wrap: anywhere; }
+.recommendation-visual p { font-size: 12px; line-height: 1.7; color: var(--text-secondary); margin: 0; }
+.recommendation-generate { display: inline-flex; gap: 8px; align-items: center; justify-content: center; }
+.recommendation-spinner { animation: care-spin 1s linear infinite; }
+.recommendation-progress { position: relative; overflow: hidden; border-radius: 8px; padding: 12px; margin: 12px 0; color: var(--text-secondary); font-size: 12px; background: rgba(77,171,113,.08); }
+.recommendation-progress > span { position: absolute; bottom: 0; left: 0; height: 2px; width: 35%; background: #64ac7d; animation: care-progress 1.6s ease-in-out infinite; }
+.recommendation-result { animation: care-reveal .5s ease-out both; }
+.recommendation-summary { padding: 18px; border-left: 3px solid #64ac7d; border-radius: 0 12px 12px 0; background: rgba(77,171,113,.08); }
+.recommendation-summary p, .recommendation-guidance p, .recommendation-guidance li { color: var(--text-secondary); font-size: 13px; line-height: 1.8; white-space: pre-wrap; overflow-wrap: anywhere; }
+.recommendation-summary p { margin: 8px 0 0; }
+.recommendation-guidance { margin-top: 20px; }
+.recommendation-guidance h3 { font-size: 14px; color: var(--text-primary); margin: 0 0 10px; }
+.recommendation-action-cards { display: grid; gap: 10px; }
+.recommendation-action-card { display: flex; align-items: flex-start; gap: 14px; padding: 14px; border: 1px solid var(--border-soft); border-radius: 12px; }
+.recommendation-action-card img { object-fit: contain; flex-shrink: 0; }
+.recommendation-action-card h4 { color: var(--text-primary); text-transform: capitalize; font-size: 13px; margin: 2px 0 6px; }
+.recommendation-action-card p { margin: 0; font-size: 12px; }
+.recommendation-action-card span { display: inline-block; font-size: 11px; color: var(--text-muted); margin-top: 8px; }
+@keyframes care-reveal { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes care-float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+@keyframes care-spin { to { transform: rotate(360deg); } }
+@keyframes care-progress { from { transform: translateX(-100%); } to { transform: translateX(390%); } }
+@media (max-width: 500px) { .recommendation-visual { flex-direction: column; text-align: center; gap: 10px; padding: 16px; } .recommendation-art { flex-basis: auto; } .recommendation-art img { width: 110px; height: 110px; } }
+@media (prefers-reduced-motion: reduce) { .recommendation-visual, .recommendation-art img, .recommendation-spinner, .recommendation-progress > span, .recommendation-result { animation: none; } }

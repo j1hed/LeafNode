@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c2618"/>
+      <stop offset="1" stop-color="#071014"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3d9a45"/>
+      <stop offset="0.55" stop-color="#1f7338"/>
+      <stop offset="1" stop-color="#104b2b"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="900" height="520" fill="url(#bg)"/>
+  <g opacity=".38" filter="url(#blur)">
+    <circle cx="110" cy="100" r="120" fill="#3f8d3a"/>
+    <circle cx="780" cy="120" r="150" fill="#2e6d34"/>
+    <circle cx="720" cy="430" r="130" fill="#225a2b"/>
+  </g>
+  <path d="M122 380 C245 122 591 65 792 140 C705 365 444 486 122 380Z" fill="url(#leaf)" stroke="#7bbd63" stroke-opacity=".35" stroke-width="4"/>
+  <path d="M150 362 C355 303 529 246 756 156" fill="none" stroke="#b0cf8e" stroke-opacity=".55" stroke-width="6"/>
+  <g stroke="#9cc37f" stroke-opacity=".35" stroke-width="3" fill="none">
+    <path d="M314 314 C299 270 281 231 250 196"/><path d="M398 285 C392 231 375 187 343 148"/>
+    <path d="M490 255 C497 208 486 163 460 126"/><path d="M578 225 C596 191 599 158 586 125"/>
+    <path d="M328 312 C355 351 390 377 438 396"/><path d="M424 282 C462 326 506 348 560 360"/>
+    <path d="M525 249 C561 284 604 302 653 308"/>
+  </g>
+  <g>
+    <circle cx="475" cy="255" r="28" fill="#7a5227" opacity=".85"/><circle cx="475" cy="255" r="14" fill="#352617" opacity=".9"/>
+    <circle cx="575" cy="205" r="22" fill="#8e6031" opacity=".84"/><circle cx="575" cy="205" r="10" fill="#3d2b1a"/>
+    <circle cx="395" cy="300" r="18" fill="#84602e" opacity=".78"/><circle cx="395" cy="300" r="8" fill="#3a2a1b"/>
+    <circle cx="646" cy="193" r="13" fill="#b1782e" opacity=".85"/>
+    <circle cx="300" cy="340" r="11" fill="#996231" opacity=".8"/>
+  </g>
+  <rect x="16" y="16" width="184" height="34" rx="5" fill="#071014" fill-opacity=".76" stroke="#355747"/>
+  <text x="32" y="39" fill="#b9cbc2" font-family="Arial" font-size="15">JETSON CAM • FRAME 1842</text>
+</svg>

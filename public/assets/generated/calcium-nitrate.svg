@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="260" viewBox="0 0 260 260">
+  <rect width="260" height="260" rx="24" fill="#0b1418"/>
+  <rect x="55" y="24" width="150" height="210" rx="16" fill="#eef4ef"/>
+  <path d="M55 62h150v82H55z" fill="#1f7d35"/>
+  <path d="M55 144h150v24H55z" fill="#69df24"/>
+  <text x="130" y="88" text-anchor="middle" fill="#fff" font-family="Arial" font-size="18" font-weight="700">CALCIUM</text>
+  <text x="130" y="111" text-anchor="middle" fill="#fff" font-family="Arial" font-size="18" font-weight="700">NITRATE</text>
+  <text x="130" y="136" text-anchor="middle" fill="#d3f4c1" font-family="Arial" font-size="13">15.5-0-0 + 19% Ca</text>
+  <text x="130" y="161" text-anchor="middle" fill="#0c3a18" font-family="Arial" font-size="11" font-weight="700">AGRONOMIC GRADE</text>
+  <g fill="#2a7d3c">
+    <path d="M100 192c12-23 37-24 49-9-12 19-34 26-49 9z"/>
+    <path d="M131 192c8-20 28-27 43-17-7 18-25 29-43 17z" opacity=".8"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#F7F6EE" />
+    <meta name="description" content="Intelligent plant monitoring for a greener future. Discover LeafNode: IoT sensing, Edge AI and local automated plant care." />
+    <link rel="icon" type="image/png" href="/assets/icons/01_navigation_brand/01_leafnode_logo.png" />
+    <script>
+      (() => {
+        let theme = 'dark';
+        try {
+          const saved = localStorage.getItem('leafnode-theme');
+          if (saved === 'light' || saved === 'dark') theme = saved;
+        } catch {}
+        document.documentElement.dataset.theme = theme;
+        const dashboard = location.hash.startsWith('#/dashboard');
+        document.documentElement.dataset.page = dashboard ? 'dashboard' : 'landing';
+        document.querySelector('meta[name="theme-color"]').setAttribute('content', !dashboard ? '#F7F6EE' : theme === 'light' ? '#f6f5ee' : '#09110f');
+      })();
+    </script>
+    <title>LeafNode — Intelligent Plant Monitoring</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

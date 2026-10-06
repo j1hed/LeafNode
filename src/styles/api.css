@@ -1,0 +1,13 @@
+﻿.api-state { padding: 12px 0; font-size: 12px; line-height: 1.6; color: var(--text-muted); overflow-wrap: anywhere; }
+.api-error { color: var(--orange); }
+.api-json { margin: 10px 0; padding: 12px; max-height: 320px; overflow: auto; white-space: pre-wrap; overflow-wrap: anywhere; border: 1px solid var(--border-soft); border-radius: 10px; color: var(--text-secondary); font-size: 12px; line-height: 1.6; }
+.api-field { display: flex; flex-direction: column; gap: 8px; margin-bottom: 14px; color: var(--text-secondary); font-size: 12px; min-width: 0; }
+.api-field input, .api-field select { width: 100%; min-width: 0; padding: 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface, #15251b); color: var(--text-primary); }
+.api-actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 14px 0; }
+.api-camera-placeholder { display: grid; place-items: center; padding: 24px; text-align: center; color: var(--text-muted); font-size: 12px; }
+.api-history, .api-analysis, .api-command-list, .api-alert { padding: 12px 18px; }
+.api-history h3 { font-size: 14px; }
+.api-history details, .recommendation-copy details { margin: 12px 0; color: var(--text-secondary); font-size: 12px; }
+.api-command { margin-bottom: 14px; font-size: 12px; }
+.leafnode-app button:disabled { cursor: not-allowed; opacity: .5; }
+[data-theme="light"] .api-field input, [data-theme="light"] .api-field select { background: #fff; color: #183120; }
