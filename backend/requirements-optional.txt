@@ -1,0 +1,10 @@
+# Install these only if you want services/growth_knowledge.py to use
+# real semantic search (sentence-transformers + FAISS) instead of the
+# default keyword-overlap search. Heavy (~2GB with torch), so kept
+# separate from requirements.txt.
+#
+#   pip install -r requirements-optional.txt
+
+sentence-transformers==3.0.1
+faiss-cpu==1.8.0
+numpy==1.26.4

@@ -1,0 +1,29 @@
+﻿# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Local databases and runtime data
+*.db
+*.db-*
+*.sqlite*
+logs/
+plant_data/
+plant_diseases/
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Editor and agent files
+.idea/
+.ai/
+.agents/
+.codex/
+# Frontend build artifacts
+node_modules/
+dist/
+
+esp32/*_secrets.h
